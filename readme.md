@@ -2,7 +2,7 @@
 
 Welcome to my self-directed Python learning repository! This project tracks my hands-on problem-solving journey from beginner to advanced concepts, built entirely with my own logic.
 
-## 📌 Completed Challenges (1 - 5)
+## 📌 Completed Challenges (1 - 6)
 
 1. **Even or Odd Checker**
    - _Description:_ Checked if a given number is even or odd using basic condition logic.
@@ -14,6 +14,8 @@ Welcome to my self-directed Python learning repository! This project tracks my h
    - _Description:_ Counted the number of vowels in a string using custom functions and character matching.
 5. **Palindrome Checker**
    - _Description:_ Verified if a word or phrase reads the same backwards and forwards using string reversal techniques.
+6. **Shopping Cart Total Cost Calculator**
+   - _Description:_ Calculated the total cost of multiple items in a shopping cart using Python lists and iteration/aggregation logic.
 
 ---
 
