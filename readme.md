@@ -16,6 +16,8 @@ Welcome to my self-directed Python learning repository! This project tracks my h
    - _Description:_ Verified if a word or phrase reads the same backwards and forwards using string reversal techniques.
 6. **Shopping Cart Total Cost Calculator**
    - _Description:_ Calculated the total cost of multiple items in a shopping cart using Python lists and iteration/aggregation logic.
+7. **Student Grade Average Calculator** -
+   _Description:_ Calculated the average grade of a student across multiple subjects using Python lists and iteration/aggregation logic.
 
 ---
 
