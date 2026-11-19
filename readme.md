@@ -2,7 +2,7 @@
 
 Welcome to my self-directed Python learning repository! This project tracks my hands-on problem-solving journey from beginner to advanced concepts, built entirely with my own logic.
 
-## 📌 Completed Challenges (1 - 6)
+## 📌 Completed Challenges (1 - 7)
 
 1. **Even or Odd Checker**
    - _Description:_ Checked if a given number is even or odd using basic condition logic.
